@@ -2,46 +2,112 @@
 <items version="2" >
 
     <item
-        jar="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="c50fa5a05647dd1b976c62f26636acb3f79e010d">
-        <dex dex="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ee4c6334d14f87c6862527e0b28fb261f0ee00ff/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_8b790fbbbdb3ef5ae6f847574f70e3ae9d9db143/classes.dex" />
     </item>
     <item
-        jar="/home/devlovepreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_960f3612dd25085f6297a4f3f42ca5f27d4a2b90/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_1a149aa321fceeda2124da31c467b663aef05373/classes.dex" />
     </item>
     <item
-        jar="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_61b7958116c3f9a1438b41f0c0d2e271df17329b/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_ee369c7e3897a772288ca3a79e1fb1094029e17f/classes.dex" />
     </item>
     <item
-        jar="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="82dec9bd65c5df5c6ccbfe45a10dc06a9fccfff9">
-        <dex dex="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_46a9d82207730cf125e235018f3594f29794c258/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_467b719fa574b76e24d349272e447a769d3c8801/classes.dex" />
     </item>
     <item
-        jar="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
-        <dex dex="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_c880cf4538a2f09a3121f9f4bb038a1366f7a353/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_bfce82a2bf0716920c594d5509cae38967c58c53/classes.dex" />
     </item>
     <item
-        jar="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
         jumboMode="true"
-        revision="21.1.2"
-        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="/home/devlovepreet/Github/Sunshine-App-Udacity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_e5091e9ba72470bec4f57f6f1140c5d34359b5e7/classes.dex" />
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_3df9711a4a4bedc11827705cd03412c2d8569693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a67a80c455d04d92d2a6e8e0fe1df0a7bcd96caa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_95ff80f1774a7c0afed88b79354d9265cec3fba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_cfbcdbfe8399e55c818750a9387478cae034f5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03f0a45d173d4167e5e2e4431c79d11541d14d38">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9f3efafd9b31c9a54f873385d1a4423863a45542/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="015581041c1407c9910fe5da9f563d2e955ab04d">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dc8f34e27a00211b487728145e783ea0330e2906/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/dev_lovepreet/Github/Sunshine-Version-2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_c3fdd01d5f1d48cdab5cc642981da67ae735e30b/classes.dex" />
     </item>
 
 </items>
